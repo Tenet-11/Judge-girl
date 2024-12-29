@@ -27,3 +27,24 @@ Judgegirl Solutions
 52. 多少母音  53. 可樂喝到飽  54. 質數進階題  55. 進位  56. 奇數的和  57. 蝸牛翻牆  58. 數列循環
 59. Reverse and Add  60. 排序次數
 
+### ch06 迴圈的CPE
+61. [ CPE ] Divide, But Not Quite Conquer!
+62. [ CPE ] Can You Solve It?
+63. [ CPE ] Product of Digits
+64. [ CPE ] Open Credit System
+65. [ CPE ] Zeroes
+66. [ CPE ] Soda Surpler
+67. [ CPE ] Division of Nlogonia
+68. [ CPE ] Lucky Thief
+69. [ CPE ] Alarm Clock
+70. [ CPE ] Parking
+71. [ CPE ] Correct Move
+72. [ CPE ] Dropping Balls
+73. [ CPE ] Satellites
+74. [ CPE ] Steps
+75. [ CPE ] Combination Lock
+76. [ CPE ] Joana and the Odd Numbers
+77. [ CPE ] Rare Easy Problem
+78. [ CPE ] Back to High School Physics
+79. [ CPE ] How Many Knights
+80. [ CPE ] What is the Probability?
