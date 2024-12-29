@@ -4,3 +4,7 @@
 #### Judge System: (http://120.126.151.220/problems/domain/0#)
 Judgegirl Solutions
 
+## Problem Description
+
+### ch01 程式設計
+- 5 [印出 Hello World]
