@@ -7,4 +7,7 @@ Judgegirl Solutions
 ## Problem Description
 
 ### ch01 程式設計
-- 5 [印出 Hello World]
+5. 印出 Hello World
+
+### ch02 基本程式架構
+173. 基本輸入練習
