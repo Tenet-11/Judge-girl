@@ -48,3 +48,14 @@ Judgegirl Solutions
 78. [ CPE ] Back to High School Physics
 79. [ CPE ] How Many Knights
 80. [ CPE ] What is the Probability?
+
+### ch07 Array
+81. [ CPE ] Sales
+82. [ CPE ] Strategy Game
+83. [ CPE ] Doom’s Day Algorithm
+84. [ CPE ] Digit Generator
+85. [ CPE ] Behold My Quadrangle
+86. 矩陣翻轉  88. 精準計算機  89. 矩陣相乘  90. 反矩陣  91. 搬動最少方塊  92. 偵測炸彈
+93. 我掉了哪顆石頭  94. 最少箱子使用數量  95. 公平分禮物  96. Single Number
+97. Maximum Subarray  98. Move Zero  99. Contiguous Array
+100. [CPE] Minersweeper 
