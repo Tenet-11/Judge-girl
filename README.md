@@ -76,9 +76,25 @@ Judgegirl Solutions
 97. Maximum Subarray  98. Move Zero  99. Contiguous Array
 100. [CPE] Minersweeper
 
-### ch08 Functions
+### CH08 Functions
 101. 費式數列  102. 迴文函式  103. 二分搜尋法  104. 氣泡排序法  105. 找最大值函式  106. 最大公因數函式  107. 閏年平年判斷  108. 找出中位數
 109. 兩數最小公倍數  110. 矩陣轉置  111. 兩矩陣相加
 112. 兩矩陣相乘  119. How Many Ones Needed?  120. 身分證檢驗  121. 字母平移  122. 1A2B3C
 123. Funny Encryption Method  124. The Hotel with Infinite Rooms
 125. [CPE] Jolly Jumpers
+
+### CH09 Pointer
+126. 整數交換
+127. a的b次方
+128. 陣列加總
+129. 陣列合併
+132. 泡沫排序法(指標)
+133. 四整數相乘
+134. 字串長度計算機
+135. 陣列合併相乘
+138. 指標陣列的最大值
+139. 指標操作
+140. 快樂的數字
+141. 最後的元素
+142. 填滿圖形
+
