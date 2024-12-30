@@ -61,4 +61,8 @@ Judgegirl Solutions
 100. [CPE] Minersweeper
 
 ### ch08 Functions
-
+101. 費式數列  102. 迴文函式  103. 二分搜尋法  104. 氣泡排序法  105. 找最大值函式  106. 最大公因數函式  107. 閏年平年判斷  108. 找出中位數
+109. 兩數最小公倍數  110. 矩陣轉置  111. 兩矩陣相加
+112. 兩矩陣相乘  119. How Many Ones Needed?  120. 身分證檢驗  121. 字母平移  122. 1A2B3C
+123. Funny Encryption Method  124. The Hotel with Infinite Rooms
+125. [CPE] Jolly Jumpers
