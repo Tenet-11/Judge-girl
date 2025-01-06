@@ -10,7 +10,7 @@ void swap(int* x, int* y) {
     *y = temp;
 }
 
-// 排列全部組合看時間??
+// 排列全部組合看時間
 void time_computation(int* ans, int* arr, int buff, int l,int r) {
     
     // 計算擊殺寶箱怪時間
